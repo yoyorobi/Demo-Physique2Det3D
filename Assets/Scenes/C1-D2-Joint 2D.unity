@@ -1437,10 +1437,10 @@ GameObject:
   - component: {fileID: 1693662440}
   - component: {fileID: 1693662439}
   - component: {fileID: 1693662438}
-  - component: {fileID: 1693662442}
-  - component: {fileID: 1693662443}
   - component: {fileID: 1693662444}
   - component: {fileID: 1693662445}
+  - component: {fileID: 1693662442}
+  - component: {fileID: 1693662443}
   m_Layer: 0
   m_Name: Circle
   m_TagString: Untagged
